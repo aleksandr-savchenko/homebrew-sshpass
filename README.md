@@ -6,13 +6,13 @@ Homebrew maintainers [reject adding](https://github.com/Homebrew/homebrew/pull/1
 ## Install
 
 ```
-brew install hudochenkov/sshpass/sshpass
+brew install aleksandr-savchenko/sshpass/sshpass
 ```
 
-Or `brew tap hudochenkov/sshpass` and then `brew install sshpass`.
+Or `brew tap aleksandr-savchenko/sshpass` and then `brew install sshpass`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/hudochenkov/homebrew-sshpass/master/sshpass.rb
+brew install https://raw.githubusercontent.com/aleksandr-savchenko/homebrew-sshpass/master/sshpass.rb
 ```
